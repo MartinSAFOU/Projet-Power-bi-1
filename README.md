@@ -245,7 +245,7 @@ Map Visualization
 ### Purpose
 
 Provide detailed operational insights to support tactical decisions.
-
+![image alt](https://github.com/MartinSAFOU/Projet-Power-bi-1/blob/46741aefdbd36aedf82a87a6d8dfde4b73a30315/capture%20page%202.png)
 ---
 
 ### Top 10 Products

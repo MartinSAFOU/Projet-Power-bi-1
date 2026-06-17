@@ -175,6 +175,7 @@ AVERAGE(Fact_Sales[Discount])
 ### Purpose
 
 Provide a high-level view of business performance for management and decision-makers.
+![image alt](https://github.com/MartinSAFOU/Projet-Power-bi-1/blob/9b8ab8475d4bba28c12a7b1c3c0e4976906ba740/capture%20page%201.png)
 
 ### KPIs
 

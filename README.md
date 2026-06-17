@@ -1,6 +1,6 @@
 # 📊 Global Superstore Sales Performance Dashboard | Power BI
 
-## 📌 Project Overview
+## Project Overview
 
 This project consists of designing an interactive Business Intelligence dashboard in Power BI using the Global Superstore dataset.
 
@@ -13,7 +13,7 @@ The dashboard is structured around two analytical pages:
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 The company needs a real-time reporting solution to monitor commercial performance and support strategic decision-making.
 
@@ -27,7 +27,7 @@ Key questions addressed:
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Monitor key business KPIs
 - Analyze sales trends and seasonality
@@ -37,7 +37,7 @@ Key questions addressed:
 
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 - Power BI Desktop
 - Power Query
@@ -47,7 +47,7 @@ Key questions addressed:
 
 ---
 
-# 🧹 Data Preparation
+# Data Preparation
 
 Data preparation was performed using Power Query.
 
@@ -66,7 +66,7 @@ Data preparation was performed using Power Query.
 
 ---
 
-# ⭐ Data Model
+# Data Model
 
 A Star Schema was implemented to optimize performance and ensure scalability.
 
@@ -123,7 +123,7 @@ Contains transactional sales information:
 
 ---
 
-# 📐 DAX Measures
+# DAX Measures
 
 Key measures created:
 
@@ -168,7 +168,7 @@ AVERAGE(Fact_Sales[Discount])
 
 ---
 
-# 📈 Dashboard Structure
+# Dashboard Structure
 
 ## Page 1 — Executive Overview
 
@@ -239,7 +239,7 @@ Map Visualization
 
 ---
 
-# 📊 Page 2 — Sales & Performance Analysis
+# Page 2 — Sales & Performance Analysis
 
 ### Purpose
 
@@ -341,20 +341,7 @@ Compare current results with previous periods.
 
 Assess the impact of discounts on sales performance.
 
----
-
-# 📷 Dashboard Preview
-
-## Executive Overview
-
- 
----
-
-## Sales & Performance Analysis
- 
-
-
-# 🚀 Key Skills Demonstrated
+🚀 Key Skills Demonstrated
 
 ### Business Intelligence
 
@@ -400,7 +387,7 @@ README.md
 
 ---
 
-# 📬 Author
+# Author
 
 Data Analyst Portfolio Project
 
